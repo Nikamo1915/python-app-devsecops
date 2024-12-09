@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Nikamo1915/python-app-devsecops/compare/v1.0.1...v1.0.2) (2024-12-09)
+
+
+### Bug Fixes
+
+* update action ([be6e8cd](https://github.com/Nikamo1915/python-app-devsecops/commit/be6e8cdf3dcc35a52fd2c385b679d27b58e035bc))
+
 ## [1.0.1](https://github.com/Nikamo1915/python-app-devsecops/compare/v1.0.0...v1.0.1) (2024-12-09)
 
 
