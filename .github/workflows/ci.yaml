@@ -97,7 +97,7 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=${{ github.repository_owner }}_${{ env.REPO_NAME }}
-            -Dsonar.organization="Mon"
+            -Dsonar.organization="nikamo1915"
             -Dsonar.python.coverage.reportPaths=coverage.xml
             -Dsonar.test.exclusions=tests/**
             -Dsonar.tests=tests/
